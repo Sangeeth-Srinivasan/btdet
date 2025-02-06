@@ -2,6 +2,7 @@ streamlit
 tensorflow
 numpy
 opencv-python
-Pillow
+pillow
 seaborn
 matplotlib
+opencv-python-headless
